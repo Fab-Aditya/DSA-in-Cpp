@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
