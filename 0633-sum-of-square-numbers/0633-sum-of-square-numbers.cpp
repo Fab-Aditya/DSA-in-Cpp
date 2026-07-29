@@ -13,7 +13,7 @@ public:
                 k--;
             }
             else{
-                i++;;
+                i++;
             }
         }
        return false; 
