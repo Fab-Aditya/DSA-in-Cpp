@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1390-four-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1390-four-divisors) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0027-remove-element) |
 | [0633-sum-of-square-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1390-four-divisors) |
 | [2652-sum-multiples](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2652-sum-multiples) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
