@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0055-jump-game) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0540-single-element-in-a-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
