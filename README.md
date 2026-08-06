@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -49,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0633-sum-of-square-numbers) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1390-four-divisors) |
