@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0633-sum-of-square-numbers) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1390-four-divisors) |
+| [2544-alternating-digit-sum](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2652-sum-multiples) |
 ## Sorting
 |  |
