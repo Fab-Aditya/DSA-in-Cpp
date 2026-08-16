@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0189-rotate-array) |
+| [0414-third-maximum-number](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0704-binary-search) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
