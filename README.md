@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0633-sum-of-square-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1390-four-divisors) |
 | [2544-alternating-digit-sum](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2544-alternating-digit-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0237-delete-node-in-a-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
