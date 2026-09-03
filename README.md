@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1920-build-array-from-permutation) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1390-four-divisors) |
 | [2544-alternating-digit-sum](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2652-sum-multiples) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
