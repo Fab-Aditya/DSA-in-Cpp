@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
