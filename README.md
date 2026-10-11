@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0078-subsets) |
+| [0371-sum-of-two-integers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Backtracking
 |  |
