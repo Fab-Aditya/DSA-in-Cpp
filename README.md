@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1920-build-array-from-permutation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0055-jump-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
 | ------- |
