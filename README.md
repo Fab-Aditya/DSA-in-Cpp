@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0493-reverse-pairs) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0633-sum-of-square-numbers) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
