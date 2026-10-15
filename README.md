@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0896-monotonic-array) |
@@ -222,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
