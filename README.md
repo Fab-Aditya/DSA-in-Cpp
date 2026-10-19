@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1920-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
