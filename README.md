@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1920-build-array-from-permutation) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/3875-construct-uniform-parity-array-i) |
@@ -240,8 +241,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
