@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -242,9 +244,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
