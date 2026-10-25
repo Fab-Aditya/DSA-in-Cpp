@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1390-four-divisors) |
+| [1952-three-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1952-three-divisors) |
 | [2544-alternating-digit-sum](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2652-sum-multiples) |
 | [3870-count-commas-in-range](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/3870-count-commas-in-range) |
@@ -251,4 +252,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2487-remove-nodes-from-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
