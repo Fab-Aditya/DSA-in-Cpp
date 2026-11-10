@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0414-third-maximum-number) |
+| [0456-132-pattern](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0540-single-element-in-a-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0209-minimum-size-subarray-sum) |
+| [0456-132-pattern](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0633-sum-of-square-numbers) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0155-min-stack) |
+| [0456-132-pattern](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2487-remove-nodes-from-linked-list) |
