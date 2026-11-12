@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
