@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
