@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0503-next-greater-element-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Fab-Aditya/DSA-in-Cpp/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
 | ------- |
